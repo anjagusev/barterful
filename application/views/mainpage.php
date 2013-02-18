@@ -42,7 +42,7 @@
 		<div id="heroWrapper">
 	        <section id="heroUnit">
 	        	<article class="titleText">
-		            <h1>What skill would you like to barter today? </h1>
+		            <h1>So what are you good at? </h1>
 		            
 		            <h3>Barterful is a network of online bartering communities. <a href="#">Learn More </a> </h3>
 		            <div id="inputWrapper">
