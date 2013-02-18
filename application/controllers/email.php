@@ -14,6 +14,7 @@ function __construct()
 	function index()
 	{
 		$this->load->view('landingpage');
+		//cow poo
 	}
 	
 	function send()
