@@ -27,6 +27,7 @@ function __construct()
 		
 		$this->form_validation->set_rules('email','Email','trim|required|valid_email');
 		$this->form_validation->set_rules('message','Message','required');
+		//id name, name it prints out, the rules
 		
 		if($this->form_validation->run()==FALSE){
 			$this->load->view('landingpage');		
